@@ -1,0 +1,248 @@
+{
+  "tournamentId": "Чемпіонат України 2021",
+  "shortName": "champ21",
+  "shortNameUkr": "ЧУ21",
+  "date": "2021-04-28T21:00:00.000Z",
+  "competitions": [
+    {
+      "devision": "bc1",
+      "result": [
+        {
+          "athleteId": "Яна Пелих",
+          "points": 12
+        },
+        {
+          "athleteId": "Інна Кравчук",
+          "points": 9
+        },
+        {
+          "athleteId": "Олександр Кривошта",
+          "points": 7
+        },
+        {
+          "athleteId": "Володимир Ройко",
+          "points": 4
+        },
+        {
+          "athleteId": "Світлана Пукальчук",
+          "points": 3
+        },
+        {
+          "athleteId": "Вікторія Хахула",
+          "points": 3
+        },
+        {
+          "athleteId": "Cоломія Рущак",
+          "points": 2
+        },
+        {
+          "athleteId": "Анастасія Стельмах",
+          "points": 2
+        },
+        {
+          "athleteId": "Юлія Борисова",
+          "points": 2
+        },
+        {
+          "athleteId": "Дмитро Шеруда",
+          "points": 1
+        },
+        {
+          "athleteId": "Богдан Левчук",
+          "points": 1
+        },
+        {
+          "athleteId": "Світлана Кравченко",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "devision": "bc2",
+      "result": [
+        {
+          "athleteId": "Олег Гелетуха",
+          "points": 17
+        },
+        {
+          "athleteId": "Іван Місляй",
+          "points": 14
+        },
+        {
+          "athleteId": "Володимир Поляков",
+          "points": 11
+        },
+        {
+          "athleteId": "Андрій Мороз",
+          "points": 9
+        },
+        {
+          "athleteId": "Олександр Вакульський",
+          "points": 5
+        },
+        {
+          "athleteId": "Анастасія Максимова",
+          "points": 4.7
+        },
+        {
+          "athleteId": "Володимир Шульгін",
+          "points": 4.7
+        },
+        {
+          "athleteId": "Марта Борисяк",
+          "points": 4
+        },
+        {
+          "athleteId": "Оксана Кручок",
+          "points": 4
+        },
+        {
+          "athleteId": "Іван Паук",
+          "points": 3
+        },
+
+        {
+          "athleteId": "Алла Лісовенко",
+          "points": 2.3
+        },
+        {
+          "athleteId": "Павло Гущик",
+          "points": 2.3
+        },
+        {
+          "athleteId": "Ростислав Думбрава",
+          "points": 2.3
+        },
+        {
+          "athleteId": "Андрій Мурза",
+          "points": 2
+        },
+        {
+          "athleteId": "Володимир Процяк",
+          "points": 2
+        },
+        {
+          "athleteId": "Алім Кравченко",
+          "points": 2
+        },
+        {
+          "athleteId": "Катерина Томашева",
+          "points": 1
+        },
+        {
+          "athleteId": "Кароліна Строїн",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "devision": "bc3",
+      "result": [
+        {
+          "athleteId": "Евген Солдатов",
+          "points": 6.5
+        },
+        {
+          "athleteId": "Олександр Кульбікаєв",
+          "points": 2
+        },
+        {
+          "athleteId": "Любов Александрович",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "devision": "bc4",
+      "gamesPlayed": 3,
+      "result": [
+        {
+          "athleteId": "Андрій Окулов",
+          "points": 17,
+          "bonus": true
+        },
+        {
+          "athleteId": "Артем Колінько",
+          "points": 14,
+          "bonus": true
+        },
+        {
+          "athleteId": "Борис Магда",
+          "points": 12
+        },
+        {
+          "athleteId": "Олексій Ковган",
+          "points": 8.7
+        },
+        {
+          "athleteId": "Віктор Богинський",
+          "points": 6
+        },
+        {
+          "athleteId": "Олександр Тютюнник",
+          "points": 4.7
+        },
+        {
+          "athleteId": "Іван Мельник",
+          "points": 5
+        },
+        {
+          "athleteId": "Евгеній Войтишин",
+          "points": 4.7
+        },
+        {
+          "athleteId": "Наталія Коненко",
+          "points": 3.7
+        },
+        {
+          "athleteId": "Василь Гейло",
+          "points": 3.7
+        },
+        {
+          "athleteId": "Сергій Лебедь",
+          "points": 3.7
+        },
+        {
+          "athleteId": "Василь Патращук",
+          "points": 3
+        },
+        {
+          "athleteId": "Олександр Романюк",
+          "points": 2.3
+        },
+        {
+          "athleteId": "Володимир Склянчук",
+          "points": 2.3
+        },
+        {
+          "athleteId": "Петро Буткевич",
+          "points": 2.3
+        },
+        {
+          "athleteId": "Ольга Іовенко",
+          "points": 2
+        },
+        {
+          "athleteId": "Наталія Ковба",
+          "points": 1
+        },
+        {
+          "athleteId": "Вікторія Літовченко",
+          "points": 1
+        },
+        {
+          "athleteId": "Олег Деркач",
+          "points": 1
+        },
+        {
+          "athleteId": "Степан Дирів",
+          "points": 1
+        },
+        {
+          "athleteId": "Надія Годованець",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

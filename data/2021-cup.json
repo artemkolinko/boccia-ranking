@@ -1,0 +1,164 @@
+{
+  "tournamentId": "Кубок України 2021",
+  "shortName": "cup21",
+  "shortNameUkr": "КУ21",
+  "date": "2021-09-28T21:00:00.000Z",
+  "competitions": [
+    {
+      "devision": "bc1",
+      "result": [
+        {
+          "athleteId": "Владислав Кухта",
+          "points": 13
+        },
+        {
+          "athleteId": "Яна Пелих",
+          "points": 10
+        },
+        {
+          "athleteId": "Ростислав Кабан",
+          "points": 7
+        },
+        {
+          "athleteId": "Сергій Фермяков",
+          "points": 5
+        },
+        {
+          "athleteId": "Світлана Кравченко",
+          "points": 3
+        },
+        {
+          "athleteId": "Олександр Кривошта",
+          "points": 3
+        },
+        {
+          "athleteId": "Ростислав Громов",
+          "points": 2
+        },
+        {
+          "athleteId": "Богдан Левчук",
+          "points": 2
+        },
+        {
+          "athleteId": "Валерій Мірошниченко",
+          "points": 1
+        },
+        {
+          "athleteId": "Юлія Борисова",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "devision": "bc2",
+      "result": [
+        {
+          "athleteId": "Андрій Мороз",
+          "points": 13
+        },
+        {
+          "athleteId": "Іван Місляй",
+          "points": 9
+        },
+        {
+          "athleteId": "Володимир Поляков",
+          "points": 7
+        },
+        {
+          "athleteId": "Алла Лісовенко",
+          "points": 5
+        },
+        {
+          "athleteId": "Олег Гелетуха",
+          "points": 4
+        },
+        {
+          "athleteId": "Володимир Шульгін",
+          "points": 3
+        },
+        {
+          "athleteId": "Марта Борисяк",
+          "points": 2
+        },
+        {
+          "athleteId": "Олександр Вакульський",
+          "points": 2
+        },
+        {
+          "athleteId": "Анастасія Максимова",
+          "points": 1
+        },
+        {
+          "athleteId": "Тимофій Самборський",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "devision": "bc3",
+      "result": [
+        {
+          "athleteId": "Евген Солдатов",
+          "points": 6.5
+        },
+        {
+          "athleteId": "Олександр Кульбікаєв",
+          "points": 5
+        },
+        {
+          "athleteId": "Олександр Власов",
+          "points": 3
+        },
+        {
+          "athleteId": "Любов Александрович",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "devision": "bc4",
+      "result": [
+        {
+          "athleteId": "Артем Колінько",
+          "points": 13
+        },
+        {
+          "athleteId": "Андрій Окулов",
+          "points": 10
+        },
+        {
+          "athleteId": "Борис Магда",
+          "points": 7
+        },
+        {
+          "athleteId": "Іван Мельник",
+          "points": 5
+        },
+        {
+          "athleteId": "Олександр Тютюнник",
+          "points": 3
+        },
+        {
+          "athleteId": "Наталія Коненко",
+          "points": 3
+        },
+        {
+          "athleteId": "Сергій Лебедь",
+          "points": 2
+        },
+        {
+          "athleteId": "Олексій Ковган",
+          "points": 2
+        },
+        {
+          "athleteId": "Евгеній Войтишин",
+          "points": 1
+        },
+        {
+          "athleteId": "Віктор Богинський",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

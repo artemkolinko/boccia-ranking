@@ -1,0 +1,256 @@
+{
+  "tournamentId": "Чемпіонат України 2019",
+  "shortName": "champ19",
+  "shortNameUkr": "ЧУ19",
+  "date": "2019-06-25T21:00:00.000Z",
+  "competitions": [
+    {
+      "devision": "bc1",
+      "result": [
+        {
+          "athleteId": "Владислав Кухта",
+          "points": 16
+        },
+        {
+          "athleteId": "Яна Пелих",
+          "points": 4
+        },
+        {
+          "athleteId": "Олександр Кривошта",
+          "points": 13
+        },
+        {
+          "athleteId": "Ростислав Громов",
+          "points": 9
+        },
+        {
+          "athleteId": "Сергій Фермяков",
+          "points": 10
+        },
+        {
+          "athleteId": "Світлана Кравченко",
+          "points": 2
+        },
+        {
+          "athleteId": "Валерій Мірошниченко",
+          "points": 4
+        },
+        {
+          "athleteId": "Ростислав Кабан",
+          "points": 3.5
+        },
+        {
+          "athleteId": "Інна Кравчук",
+          "points": 3.5
+        },
+        {
+          "athleteId": "Анастасія Стельмах",
+          "points": 2
+        },
+        {
+          "athleteId": "Юлія Поворотна",
+          "points": 1
+        },
+        {
+          "athleteId": "Софія Шевчук",
+          "points": 2
+        },
+        {
+          "athleteId": "Ігор Сакевич",
+          "points": 1
+        },
+        {
+          "athleteId": "Вікторія Хахула",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "devision": "bc2",
+      "result": [
+        {
+          "athleteId": "Андрій Мороз",
+          "points": 15.7
+        },
+        {
+          "athleteId": "Володимир Поляков",
+          "points": 13
+        },
+        {
+          "athleteId": "Марта Борисяк",
+          "points": 9
+        },
+        {
+          "athleteId": "Микита Нафігов",
+          "points": 5
+        },
+        {
+          "athleteId": "Наталія Сарана",
+          "points": 6
+        },
+        {
+          "athleteId": "Анастасія Зінченко",
+          "points": 3
+        },
+        {
+          "athleteId": "Богдан Левчук",
+          "points": 10.7
+        },
+        {
+          "athleteId": "Анастасія Максимова",
+          "points": 3
+        },
+        {
+          "athleteId": "Алла Лісовенко",
+          "points": 3
+        },
+        {
+          "athleteId": "Анна Нестеренко",
+          "points": 3.7
+        },
+        {
+          "athleteId": "Андрій Мурза",
+          "points": 5
+        },
+        {
+          "athleteId": "Володимир Шульгін",
+          "points": 5
+        },
+        {
+          "athleteId": "Анастасія Момотюк",
+          "points": 2
+        },
+        {
+          "athleteId": "Дар’я Жирнова",
+          "points": 3
+        },
+        {
+          "athleteId": "Віктор Тубарев",
+          "points": 2
+        },
+        {
+          "athleteId": "Володимир Чижук",
+          "points": 2
+        },
+        {
+          "athleteId": "Сергій Бойко",
+          "points": 1
+        },
+        {
+          "athleteId": "Ігор Перебзяк",
+          "points": 1
+        },
+        {
+          "athleteId": "Олександра Миронюк",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "devision": "bc3",
+      "result": [
+        {
+          "athleteId": "Олександр Кульбікаєв",
+          "points": 11
+        },
+        {
+          "athleteId": "Любов Александрович",
+          "points": 5
+        },
+        {
+          "athleteId": "Евген Солдатов",
+          "points": 7
+        },
+        {
+          "athleteId": "Максим Сінельник",
+          "points": 2
+        },
+        {
+          "athleteId": "Максим Шаренко",
+          "points": 1
+        },
+        {
+          "athleteId": "Олександр Глущук",
+          "points": 3
+        }
+      ]
+    },
+    {
+      "devision": "bc4",
+      "result": [
+        {
+          "athleteId": "Артем Колінько",
+          "points": 17
+        },
+        {
+          "athleteId": "Іван Мельник",
+          "points": 14
+        },
+        {
+          "athleteId": "Борис Магда",
+          "points": 12
+        },
+        {
+          "athleteId": "Сергій Лебедь",
+          "points": 9
+        },
+        {
+          "athleteId": "Юрій Духно",
+          "points": 4
+        },
+        {
+          "athleteId": "Олександр Тютюнник",
+          "points": 4.7
+        },
+        {
+          "athleteId": "Наталія Коненко",
+          "points": 5
+        },
+        {
+          "athleteId": "Евгеній Войтишин",
+          "points": 2.3
+        },
+        {
+          "athleteId": "Максим Мачевський",
+          "points": 3
+        },
+        {
+          "athleteId": "Сергій Бобровський",
+          "points": 4.7
+        },
+        {
+          "athleteId": "Армен Казарян",
+          "points": 4
+        },
+        {
+          "athleteId": "Ольга Яренчук",
+          "points": 1
+        },
+        {
+          "athleteId": "Михайло Косюр",
+          "points": 3
+        },
+        {
+          "athleteId": "Володимир Бевз",
+          "points": 2.3
+        },
+        {
+          "athleteId": "Дмитро Головченко",
+          "points": 2
+        },
+        {
+          "athleteId": "Микола Макар",
+          "points": 1
+        },
+        {
+          "athleteId": "Тетяна Дороніна",
+          "points": 1
+        },
+        {
+          "athleteId": "Олександр Продан",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

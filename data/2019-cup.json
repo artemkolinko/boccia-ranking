@@ -1,0 +1,144 @@
+{
+  "tournamentId": "Кубок України 2019",
+  "shortName": "cup19",
+  "shortNameUkr": "КУ19",
+  "date": "2019-09-28T21:00:00.000Z",
+  "competitions": [
+    {
+      "devision": "bc1",
+      "result": [
+        {
+          "athleteId": "Владислав Кухта",
+          "points": 12
+        },
+        {
+          "athleteId": "Яна Пелих",
+          "points": 9
+        },
+        {
+          "athleteId": "Олександр Кривошта",
+          "points": 2
+        },
+        {
+          "athleteId": "Ростислав Громов",
+          "points": 6
+        },
+        {
+          "athleteId": "Сергій Фермяков",
+          "points": 3
+        },
+        {
+          "athleteId": "Світлана Кравченко",
+          "points": 2
+        },
+        {
+          "athleteId": "Валерій Мірошниченко",
+          "points": 1
+        },
+        {
+          "athleteId": "Ростислав Кабан",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "devision": "bc2",
+      "result": [
+        {
+          "athleteId": "Андрій Мороз",
+          "points": 9
+        },
+        {
+          "athleteId": "Володимир Поляков",
+          "points": 4
+        },
+        {
+          "athleteId": "Марта Борисяк",
+          "points": 6
+        },
+        {
+          "athleteId": "Микита Нафігов",
+          "points": 11
+        },
+        {
+          "athleteId": "Наталія Сарана",
+          "points": 2
+        },
+        {
+          "athleteId": "Богдан Левчук",
+          "points": 1
+        },
+        {
+          "athleteId": "Анастасія Максимова",
+          "points": 2
+        },
+        {
+          "athleteId": "Алла Лісовенко",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "devision": "bc3",
+      "result": [
+        {
+          "athleteId": "Олександр Кульбікаєв",
+          "points": 8.5
+        },
+        {
+          "athleteId": "Любов Александрович",
+          "points": 5
+        },
+        {
+          "athleteId": "Максим Сінельник",
+          "points": 3
+        },
+        {
+          "athleteId": "Олександр Власов",
+          "points": 2
+        },
+        {
+          "athleteId": "Максим Шаренко",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "devision": "bc4",
+      "result": [
+        {
+          "athleteId": "Артем Колінько",
+          "points": 12
+        },
+        {
+          "athleteId": "Андрій Окулов",
+          "points": 9
+        },
+        {
+          "athleteId": "Борис Магда",
+          "points": 6
+        },
+        {
+          "athleteId": "Сергій Лебедь",
+          "points": 4
+        },
+        {
+          "athleteId": "Олександр Тютюнник",
+          "points": 2
+        },
+        {
+          "athleteId": "Наталія Коненко",
+          "points": 2
+        },
+        {
+          "athleteId": "Евгеній Войтишин",
+          "points": 1
+        },
+        {
+          "athleteId": "Максим Мачевський",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

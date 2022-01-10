@@ -1,0 +1,111 @@
+{
+  "type": "Кубок Украины",
+  "start": "2019-09-25",
+  "finish": "2019-09-29",
+  "competition": {
+    "individual": {
+      "bc1": {
+        "maxGamesInGroup": 3,
+        "playOffStart": 8,
+        "results": [
+          {
+            "athlete": {
+              "fName": "Владислав",
+              "lName": "Кухта",
+              "oblast": "Киевская"
+            },
+            "groupStage": {
+              "gamesWin": 2,
+              "bonus": true,
+              "playOff": true
+            },
+            "playOffFinish": 2
+          },
+          {
+            "athlete": {
+              "fName": "Александр",
+              "lName": "Кривошта",
+              "oblast": "Днепропетровская"
+            },
+            "groupStage": {
+              "gamesWin": 3,
+              "bonus": false,
+              "playOff": true
+            },
+            "playOffFinish": 1
+          },
+          {
+            "athlete": {
+              "fName": "Яна",
+              "lName": "Пелых",
+              "oblast": "Одесская"
+            },
+            "groupStage": {
+              "gamesWin": 3,
+              "bonus": false,
+              "playOff": true
+            },
+            "playOffFinish": 3
+          }
+        ]
+      },
+
+      "bc2": {
+        "maxGamesInGroup": 3,
+        "playOffStart": 8,
+        "results": [
+          {
+            "athlete": {
+              "fName": "Андрей",
+              "lName": "Мороз",
+              "oblast": "Днепропетровская"
+            },
+            "groupStage": {
+              "gamesWin": 3,
+              "bonus": false,
+              "playOff": true
+            },
+            "playOffFinish": 1
+          },
+          {
+            "athlete": {
+              "fName": "Никита",
+              "lName": "Нафигов",
+              "oblast": "Одесская"
+            },
+            "groupStage": {
+              "gamesWin": 3,
+              "bonus": false,
+              "playOff": true
+            },
+            "playOffFinish": 2
+          },
+          {
+            "athlete": {
+              "fName": "Наталья",
+              "lName": "Сарана",
+              "oblast": "Днепропетровская"
+            },
+            "groupStage": {
+              "gamesWin": 2,
+              "bonus": false,
+              "playOff": true
+            },
+            "playOffFinish": 3
+          }
+        ]
+      }
+    },
+    "pairsAndTeam": [
+      {
+        "division": "Pair BC3"
+      },
+      {
+        "division": "Pair BC4"
+      },
+      {
+        "division": "Team BC1/BC2"
+      }
+    ]
+  }
+}

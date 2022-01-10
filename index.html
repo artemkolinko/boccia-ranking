@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="container" id="container"></div>
+    <h2>Create Athlete</h2>
+    <form>
+      <input type="text" name="fname" id="fname" />
+      <label for="fname">First Name</label><br />
+      <input type="text" name="lname" id="lname" />
+      <label for="lname">Last Name</label><br />
+      <input type="text" name="oblast" id="oblast" />
+      <label for="oblast">Oblast</label><br /><br />
+      <input type="submit" value="Create" />
+    </form>
+    <br /><br />
+    <h2>Create Tournament</h2>
+    <form>
+      <label for="from">From</label>
+      <input type="date" name="from" id="from" />
+      <label for="to">to</label>
+      <input type="date" name="to" id="to" /> <br />
+      <select name="tournament" id="tournament">
+        <option value="champ">Чемпионат Украины</option>
+        <option value="cup">Кубок Украины</option>
+      </select>
+      <br />
+
+      <select name="city" id="city">
+        <option value="odessa">Одесса</option>
+      </select>
+      <br /><br />
+      <input type="submit" value="Create" />
+    </form>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
